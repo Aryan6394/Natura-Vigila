@@ -1,0 +1,16 @@
+kingdom,phylum,class,order,family,genus,species,sciName,conservation_status,common_name
+Animalia,Chordata,Mammalia,Primates,Hominidae,Pongo,abelii,Pongo abelii,CR,Sumatran Orangutan
+Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus,maritimus,Ursus maritimus,VU,Polar Bear
+Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Spheniscus,humboldti,Spheniscus humboldti,VU,Humboldt Penguin
+Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Chelonia,mydas,Chelonia mydas,EN,Green Sea Turtle
+Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Loxodonta,africana,Loxodonta africana,EN,African Elephant
+Animalia,Chordata,Mammalia,Artiodactyla,Rhinocerotidae,Diceros,bicornis,Diceros bicornis,CR,Black Rhinoceros
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,tigris,Panthera tigris,EN,Tiger
+Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,grevyi,Equus grevyi,EN,Grevy's Zebra
+Animalia,Chordata,Aves,Psittaciformes,Psittaculidae,Ara,macao,Ara macao,LC,Scarlet Macaw
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,leo,Panthera leo,VU,Lion
+Animalia,Chordata,Mammalia,Primates,Gorillidae,Gorilla,gorilla,Gorilla gorilla,CR,Western Gorilla
+Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,musculus,Balaenoptera musculus,EN,Blue Whale
+Animalia,Chordata,Aves,Struthioniformes,Struthionidae,Struthio,camelus,Struthio camelus,LC,Common Ostrich
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Lycaon,pictus,Lycaon pictus,EN,African Wild Dog
+Animalia,Chordata,Reptilia,Crocodylia,Gavialidae,Gavialis,gangeticus,Gavialis gangeticus,CR,Gharial
