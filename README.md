@@ -192,6 +192,3 @@ streamlit run streamlit_app/app.py
 Visual highlighting (e.g., bounding box) assumes optional image localization is implemented.  
 For the most accurate scores on uploaded images, make sure your test set is diverse and well-evaluated.
 
----
-
-Your Streamlit app is now ready for conservation practitioners, researchers, and educators to upload any wildlife image, see its classification, relevant regions, full taxonomy, and all evaluation scores and visualizations—**all in one interactive dashboard.**
